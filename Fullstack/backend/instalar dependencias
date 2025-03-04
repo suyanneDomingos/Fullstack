@@ -1,0 +1,20 @@
+
+backend
+No terminal do projeto (C:\FullStack\backend), instale:
+npm install sequelize pg pg-hstore dotenv
+
+npm install express sequelize pg pg-hstore dotenv cors
+npm install --save-dev nodemon
+
+cd /charaktane/Fullstack/backend
+npm run start
+
+frontend
+
+npm install axios
+cd /charaktane/Fullstack/frontend/FullStack
+npm run dev
+
+git remote add origin https://github.com/suyanneDomingos/fullstack.git
+git branch -M main
+git push -u origin main
